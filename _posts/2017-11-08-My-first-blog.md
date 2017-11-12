@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Making my first blog</td>
     <td>Date</td>
-    <td>01/01/01</td>
+    <td>08/11/17</td>
   </tr>
 </table>
 
@@ -39,11 +39,11 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>The page to publish my blog wouldn't load after multiple tries so i tried a different method and it worked.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>Trying multiple ways of publishing my blog as the first times didnt work</td>
   </tr>
   <tr>
     <td>Independence</td>
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could have focus more and decided not to talk, but to help and other and myself by getting on with my work.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>To improve my learning i will not talk to friends and get on with work.</td>
     <td></td>
   </tr>
 </table>
