@@ -27,6 +27,18 @@ background: url("https://i.ytimg.com/vi/qfS84lQbkw8/maxresdefault.jpg") no-repea
   padding: 0 10px;
   width: 100%;
 }
+ 
+table, th, td {
+	border:2px solid blue;
+}
+
+th {
+	height: 50px;
+	text-align:center;
+}
+
+tr:hover {background-color: #B82601};
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
