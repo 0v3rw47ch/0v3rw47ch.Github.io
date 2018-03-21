@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-No information about me here! ( ͡° ͜ʖ ͡°)
+Roses are red,
+Violets are blue,
+Sunflowers are yellow,
+HaHa bet you are expecting a poem but this is just gardening facts!
 
 ### More Information
 I wish i was good at this! ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
