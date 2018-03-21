@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Roses are red,
-Violets are blue,
-Sunflowers are yellow,
+Roses are red, <Br>
+Violets are blue, <Br>
+Sunflowers are yellow,<Br>
 HaHa bet you are expecting a poem but this is just gardening facts!
 
 ### More Information
