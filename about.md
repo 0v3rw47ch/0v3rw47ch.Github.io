@@ -11,4 +11,4 @@ I wish i was good at this! ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+stanley.owen@challoners.org
